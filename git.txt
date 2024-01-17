@@ -1,12 +1,1 @@
-To push changes to a Git repository after you've cloned it, you'll typically follow these steps using the command prompt (CMD) or any other terminal:
-
-Navigate to the Cloned Repository:
-
-Open the command prompt.
-Use the cd command to navigate to the directory where you cloned the repository. For example:
-bash
-Copy code
-cd path\to\your\cloned\repository
-Check the Status:
-
-It's a good practice to check the status of your repository before pushing changes to ensure you are up to date and there are no conflicts. Use the following command:
+halllooooo
